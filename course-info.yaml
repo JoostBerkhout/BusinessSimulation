@@ -1,0 +1,24 @@
+type: marketplace
+title: Business Simulation
+language: English
+summary: Business Simulation
+programming_language: C/C++
+environment: Catch
+content:
+  - lesson1
+additional_files:
+  - name: CMakeLists.txt
+  - name: cmake/utils.cmake
+  - name: cmake/catch.cmake
+  - name: cmake-build-debug/CMakeFiles/clion-Debug-log.txt
+  - name: cmake-build-debug/CMakeFiles/CMakeConfigureLog.yaml
+  - name: cmake-build-debug/CMakeFiles/TargetDirectories.txt
+  - name: cmake-build-debug/CMakeFiles/Makefile2
+  - name: cmake-build-debug/CMakeFiles/progress.marks
+  - name: cmake-build-debug/CMakeFiles/CMakeDirectoryInformation.cmake
+  - name: cmake-build-debug/CMakeFiles/InstallScripts.json
+  - name: cmake-build-debug/CMakeFiles/cmake.check_cache
+  - name: cmake-build-debug/CMakeFiles/Makefile.cmake
+  - name: cmake-build-debug/CMakeFiles/4.0.2/CMakeDetermineCompilerABI_CXX.bin
+    is_binary: true
+yaml_version: 5
