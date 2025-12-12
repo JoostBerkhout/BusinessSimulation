@@ -1,0 +1,18 @@
+type: edu
+files:
+  - name: src/task.cpp
+    visible: true
+    placeholders:
+      - offset: 117
+        length: 13
+        placeholder_text: Replace sum code for that of minus
+        dependency:
+          lesson: lesson2
+          task: task1
+          file: src/task.cpp
+          placeholder: 1
+  - name: CMakeLists.txt
+    visible: false
+  - name: test/test.cpp
+    visible: false
+    propagatable: false

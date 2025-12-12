@@ -36,3 +36,4 @@ additional_files:
   - name: cmake-build-debug/CMakeFiles/catch_main.dir/Unity/unity_0_cxx.cxx.obj
     is_binary: true
 yaml_version: 5
+solutions_hidden: true

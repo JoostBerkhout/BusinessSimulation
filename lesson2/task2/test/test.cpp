@@ -1,0 +1,15 @@
+// Indicates that the `main` function is need to be set.
+// Add this directive only in a one test file!
+#define CATCH_CONFIG_MAIN
+
+#include <catch.hpp>
+
+// Headers of objects that student should implement:
+int sum(int a, int b);
+
+
+// Tests:
+// todo: replace this with an actual test
+TEST_CASE("Simple", "[SumTest]") {
+    REQUIRE(sum(1, 2) == 3);
+}

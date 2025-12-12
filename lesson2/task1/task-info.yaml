@@ -2,6 +2,10 @@ type: edu
 files:
   - name: src/task.cpp
     visible: true
+    placeholders:
+      - offset: 70
+        length: 13
+        placeholder_text: /* TODO */
   - name: test/test.cpp
     visible: false
     propagatable: false

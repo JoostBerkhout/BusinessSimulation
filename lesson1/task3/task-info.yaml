@@ -1,0 +1,18 @@
+type: edu
+files:
+  - name: src/task.cpp
+    visible: true
+    placeholders:
+      - offset: 109
+        length: 13
+        placeholder_text: /* TODO */
+        dependency:
+          lesson: lesson1
+          task: task2
+          file: src/task.cpp
+          placeholder: 1
+  - name: test/test.cpp
+    visible: false
+    propagatable: false
+  - name: CMakeLists.txt
+    visible: false
