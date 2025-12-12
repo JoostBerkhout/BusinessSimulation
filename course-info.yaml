@@ -8,6 +8,7 @@ programming_language: C/C++
 environment: Catch
 content:
   - lesson1
+  - lesson2
 additional_files:
   - name: CMakeLists.txt
   - name: cmake/utils.cmake

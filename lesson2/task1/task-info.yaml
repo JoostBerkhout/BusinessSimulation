@@ -1,0 +1,9 @@
+type: edu
+files:
+  - name: src/task.cpp
+    visible: true
+  - name: test/test.cpp
+    visible: false
+    propagatable: false
+  - name: CMakeLists.txt
+    visible: false
